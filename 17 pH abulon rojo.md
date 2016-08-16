@@ -10,7 +10,7 @@ DOI: http://dx.doi.org/10.2983/035.029.0220
 **Resumen por:**Córdova Secuendino Paola Estrella 
 <img src="http://cdn.encuentos.com/wp-content/uploads/2011/10/la-estrella-malula.gif" / width = 5%>
 
-El presente estudio, evaluó la tolerancia  de estadios larvales de abulón rojo a la reducción del pH debido al incremento del dióxido de carbono y la acidificación del agua de mar.
+El presente estudio, evaluó la tolerancia  de cuatro estadios larvales de abulón rojo a la reducción del pH debido al incremento del dióxido de carbono y la acidificación del agua de mar.
 
 Considerando la supervivencia como respuesta a cambios de temperatura y regulación de genes para comprender la capacidad fisiológica de las larvas.
 
