@@ -1,6 +1,6 @@
 <img src="http://posgrados.cicese.mx/img/logos/cicese.jpg" / width = 20%>
 
-##[Efecto del pH sobre la expresión génica y la tolerancia termal en la historia de los estadios  de abulón rojo (*Haliotis rufescens*)](http://www.bioone.org/doi/full/10.2983/035.029.0220)
+##[Efecto del pH sobre la expresión génica y la tolerancia térmica en estadios larvales de abulón rojo (*Haliotis rufescens*)](http://www.bioone.org/doi/full/10.2983/035.029.0220)
 DOI: http://dx.doi.org/10.2983/035.029.0220
 
 ####MacKenzie L. Zippay y Gretchen E. Hofmann 
