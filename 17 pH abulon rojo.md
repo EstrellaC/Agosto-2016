@@ -12,7 +12,7 @@ DOI: http://dx.doi.org/10.2983/035.029.0220
 
 El presente estudio, evaluó la tolerancia  de cuatro estadios larvales de abulón rojo a la reducción del pH debido al incremento del dióxido de carbono y la acidificación del agua de mar.
 
-Considerando la supervivencia como respuesta a cambios de temperatura y regulación de genes para comprender la capacidad fisiológica de las larvas.
+Considerando la supervivencia y regulación de genes como respuesta de capacidad fisiológica de las larvas a cambios de temperatura y pH.
 
 Para obtener los gametos y realizar la fertilización, se utilizaron cuatro machos y cuatro hembras de abulón rojo, los huevos fecundados se incubaron en bajo tres concentraciones diferentes de CO2, atmosférico~380 ppm, intermedio ~570ppm y no optimo~990ppm. Con rangos de pH superiores a 8.00, entre 8.00 - 7.94 y menores a 7.91, respectivamente, todos a una temperatura promedio de 15.15°C.
 
