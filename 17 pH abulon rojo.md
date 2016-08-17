@@ -5,16 +5,16 @@ DOI: http://dx.doi.org/10.2983/035.029.0220
 
 ####MacKenzie L. Zippay y Gretchen E. Hofmann 
 
-**Journal of Shellfish Research, 29(2):429-439)**
+**Journal of Shellfish Research 2010, 29(2):429-439**
 
 **Resumen por:**Córdova Secuendino Paola Estrella 
 <img src="http://cdn.encuentos.com/wp-content/uploads/2011/10/la-estrella-malula.gif" / width = 5%>
 
-El presente estudio, evaluó la tolerancia  de cuatro estadios larvales de abulón rojo a la reducción del pH debido al incremento del dióxido de carbono y la acidificación del agua de mar.
+El presente estudio, evaluó la tolerancia de cuatro estadios larvales de abulón rojo a la reducción del pH debido al incremento del dióxido de carbono y la acidificación del agua de mar.
 
 Considerando la supervivencia y regulación de genes como respuesta de capacidad fisiológica de las larvas a cambios de temperatura y pH.
 
-Para obtener los gametos y realizar la fertilización, se utilizaron cuatro machos y cuatro hembras de abulón rojo, los huevos fecundados se incubaron en bajo tres concentraciones diferentes de CO2, atmosférico~380 ppm, intermedio ~570ppm y no optimo~990ppm. Con rangos de pH superiores a 8.00, entre 8.00 - 7.94 y menores a 7.91, respectivamente, todos a una temperatura promedio de 15.15°C.
+Para obtener los gametos y realizar la fertilización, se utilizaron cuatro machos y cuatro hembras de abulón rojo, los huevos fecundados se incubaron bajo tres concentraciones diferentes de CO2, atmosférico~380 ppm, intermedio ~570ppm y no optimo~990ppm. Con rangos de pH, superior a 8.00, entre 8.00 - 7.94 y menores a 7.91 respectivamente, todos a una temperatura promedio de 15.15°C.
 
 <img src="https://farmingweek.com/sites/default/files/styles/large/public/Abalone%20life%20history.gif" / width = 40%>
  
