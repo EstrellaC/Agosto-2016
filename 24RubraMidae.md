@@ -2,7 +2,7 @@
 
 ##[Pérdida de variación genética evaluada por microsatélites en lotes de producción de abulón en Australia (*Haliotis rubra*) y Sudáfrica (*Haliotis midae*)](http://www.sciencedirect.com/science/article/pii/S0044848603006665)
 
-####B. Evansa, J. Bartlett, N. Sweijd, P. Cook, N.G. Elliotta
+####B. Evans, J. Bartlett, N. Sweijd, P. Cook, N.G. Elliotta
 
 **Aquaculture volume 233, Issues 1–4, 26 April 2004, Pages 109–127**
 
