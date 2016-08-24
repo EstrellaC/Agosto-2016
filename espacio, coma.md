@@ -1,7 +1,7 @@
 <img src="http://posgrados.cicese.mx/img/logos/cicese.jpg" / width = 20%>
 
 
-**Por:**Córdova Secuendino Paola Estrella 
+**Por:** Córdova Secuendino Paola Estrella 
 <img src="http://cdn.encuentos.com/wp-content/uploads/2011/10/la-estrella-malula.gif" / width = 5%>
 
 
