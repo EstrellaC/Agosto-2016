@@ -6,7 +6,7 @@
 
 **Aquaculture volume 233, Issues 1–4, 26 April 2004, Pages 109–127**
 
-**Resumen por:**Córdova Secuendino Paola Estrella 
+**Resumen por:** Córdova Secuendino Paola Estrella 
 <img src="http://cdn.encuentos.com/wp-content/uploads/2011/10/la-estrella-malula.gif" / width = 5%>
 
 En este estudio, utilizando tres microsatélites, compararon la variabilidad genética con y  entre muestras de abulón sudafricano de cultivo y poblaciones naturales. 
