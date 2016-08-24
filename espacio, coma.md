@@ -42,26 +42,27 @@
 
 #[Calambur](http://www.juegosdepalabras.com/calambur.htm)
 
-Entreno en coche deportivo // *En tren o coche deportivo
+Entreno en coche deportivo // *En tren o coche deportivo*
 
 <img src="http://previews.123rf.com/images/tomaccojc/tomaccojc1412/tomaccojc141200644/34230122-Tren-viejo-del-vapor-rojo-y-marr-n-ilustraci-n-vectorial-de-dibujos-animados--Foto-de-archivo.jpg" / width = 10%>
 
-Dicen que su padre es conde // *Dicen que su padre esconde
+Dicen que su padre es conde // *Dicen que su padre esconde*
 
 <img src="http://cdn5.dibujos.net/dibujos/pintados/201442/el-conde-dracula-fiestas-halloween-pintado-por-murano-9908810.jpg" / width = 10%>
 
-Yo lo coloco y ella lo quita // *Yo loco, loco y ella loquita  
+Yo lo coloco y ella lo quita // *Yo loco, loco y ella loquita*  
 
 <img src="http://1.bp.blogspot.com/_o6t8vv9WX10/TQu-0UbIkAI/AAAAAAAAA84/MU0aXNyd-Xc/s1600/por+los+locos.png" / width = 10%>
 
-Mi madre está barriendo // *Mi madre estaba riendo
+Mi madre está barriendo // *Mi madre estaba riendo*
 
 <img src="http://www.inglesmundial.com/Images/Avanzado_5/sweep.jpg" / width = 10%>
 
-Ave, César de Roma // *A veces arde Roma
+Ave, César de Roma // 
+*A veces arde Roma*
 
 <img src="http://cdn5.dibujos.net/dibujos/pintados/201335/anfiteatro-romano-culturas-roma-pintado-por-manuares-9842422.jpg" / width = 10%>
 
-Si yo viera // *Si lloviera
+Si yo viera // *Si lloviera*
 
 <img src="http://cdn5.dibujos.net/dibujos/pintados/201120/a48752ad8fe08aafb53eb5533f20a753.png" / width = 10%>
