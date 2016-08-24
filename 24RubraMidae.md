@@ -17,7 +17,7 @@ Además, compararon los niveles de diversidad genética entre lotes de cultivo d
 
 Para ambas especies de abulón, encontraron diferencias genéticas entre los organismos de cultivo y las poblaciones naturales. Esto se observa con una pérdida de alelos raros de entre el 35% al 62% en la mayoría de los organismos de cultivo, sin embargo la heterocigosidad no se vio afectada.
 
-Este estudio demostró la utilidad de marcadores microsatélites altamente polimórficos, para comparar la variación genética entre y en poblaciones silvestres de abulón  y abulones de cultivo.
+El estudio de Evans (2004) demostró la utilidad de marcadores microsatélites altamente polimórficos, para comparar la variación genética entre y en poblaciones silvestres de abulón  y abulones de cultivo.
 
 <img src="http://www.sea-ex.com/fishphotos/images/abalone-2.jpg" / width = 20%>
 <img src="http://zipcodezoo.com/images/thumb/7/71/Haliotis_midae_5.jpg/320px-Haliotis_midae_5.jpg" / width = 20%>
