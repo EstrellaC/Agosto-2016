@@ -9,7 +9,7 @@
 **Resumen por:**Córdova Secuendino Paola Estrella 
 <img src="http://cdn.encuentos.com/wp-content/uploads/2011/10/la-estrella-malula.gif" / width = 5%>
 
-En este estudio utilizando tres microsatélites compararon la variabilidad genética con y  entre muestras de abulón sudafricano de cultivo y poblaciones naturales. 
+En este estudio, utilizando tres microsatélites, compararon la variabilidad genética con y  entre muestras de abulón sudafricano de cultivo y poblaciones naturales. 
 
 Las muestras de cultivo fueron tomadas de dos granjas manipulando individuos de 6 meses de edad, mientras que los niveles de variación genética de las poblaciones silvestres fueron tomados de estudios previos (Sweijd, 1999; Evans et al., 2000). 
 
