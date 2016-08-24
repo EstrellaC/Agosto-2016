@@ -21,3 +21,7 @@ Este estudio demostró la utilidad de marcadores microsatélites altamente polim
 
 <img src="http://www.sea-ex.com/fishphotos/images/abalone-2.jpg" / width = 20%>
 <img src="http://zipcodezoo.com/images/thumb/7/71/Haliotis_midae_5.jpg/320px-Haliotis_midae_5.jpg" / width = 20%>
+
+**Evans, B., White, R.W.G., Elliott, N.G., 2000. Characterisation of microsatellite loci in the Australian Blacklip abalone (Haliotis rubra, Leach). Molecular Ecology 9, 1183–1184.
+
+**Sweijd, N.A., 1999. Molecular Markers and Abalone Seeding as Tools for the Conservation and Management of the South African Abalone (Perlemoen), Haliotis midae (Linn.) resource. Unpublished PhD thesis, University of Cape Town Cape Town. 265 pp.
