@@ -15,7 +15,7 @@ Las muestras de cultivo fueron tomadas de dos granjas manipulando individuos de 
 
 Además, compararon los niveles de diversidad genética entre lotes de cultivo de  ocho meses de edad de abulón labio negro  en Tasmania, utilizando cinco loci microsatélite, los cuales posteriormente compararon con la diversidad de poblaciones naturales de *H. rubra* distribuidas al sur de Australia.
 
-Para ambas especies de abulón, encontraron diferencias genéticas entre los organismos de cultivo y las poblaciones naturales. Esto se observa con una pérdida de alelos de entre el 35% al 62% en la mayoría de los organismos de cultivo, sin embargo la heterocigosidad no se vio afectada.
+Para ambas especies de abulón, encontraron diferencias genéticas entre los organismos de cultivo y las poblaciones naturales. Esto se observa con una pérdida de alelos raros de entre el 35% al 62% en la mayoría de los organismos de cultivo, sin embargo la heterocigosidad no se vio afectada.
 
 Este estudio demostró la utilidad de marcadores microsatélites altamente polimórficos, para comparar la variación genética entre y en poblaciones silvestres de abulón  y abulones de cultivo.
 
